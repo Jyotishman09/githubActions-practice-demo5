@@ -83,4 +83,4 @@ jobs:
       - name: output message
         run: |
           echo "Something went wrong"
-          echo: "${{ github }}"
+          echo "${{ github }}"
